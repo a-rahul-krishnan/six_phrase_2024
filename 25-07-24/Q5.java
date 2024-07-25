@@ -41,7 +41,7 @@ public class Q5 {
                 sum+=a[i];
             }
         }
-        System.out.println("Output:\n"+sum);
+        System.out.println("Output:\n"+sum);//241
         
     }
 }
